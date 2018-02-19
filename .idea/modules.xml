@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HellowWorld2018.iml" filepath="$PROJECT_DIR$/HellowWorld2018.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Leonardo\MyFirstApp\HellowWorld2018.iml" filepath="C:\Users\Leonardo\MyFirstApp\HellowWorld2018.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyFirstApp.iml" filepath="$PROJECT_DIR$/MyFirstApp.iml" />
+      <module fileurl="file://C:\Users\Leonardo\MyFirstApp\app\app.iml" filepath="C:\Users\Leonardo\MyFirstApp\app\app.iml" />
     </modules>
   </component>
 </project>
