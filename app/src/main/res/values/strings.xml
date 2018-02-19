@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HellowWorld2018</string>
+    <string name="write_your_name">Write your name:</string>
+    <string name="say_hello">Press the button to say hello</string>
+</resources>
